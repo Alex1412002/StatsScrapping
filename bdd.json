@@ -1,0 +1,196 @@
+{
+    "user": [
+        {
+            "name": "Bourdon Supreme",
+            "tracker": "Bourdon%234794",
+            "rank": 15
+        },
+        {
+            "name": "valorent",
+            "tracker": "bottomfrag%20judge%233101",
+            "rank": 11
+        },
+        {
+            "name": "Paluche",
+            "tracker": "Paluche%231270",
+            "rank": 0
+        },
+        {
+            "name": "axelaire",
+            "tracker": "swaglord98763%239594",
+            "rank": 0
+        },
+        {
+            "name": "Cheh ta le seum Matthieu ?",
+            "tracker": "Manchot%20Royal%23FLB",
+            "rank": 0
+        },
+        {
+            "name": "CorneliusTheUnik",
+            "tracker": "CorneliusTheUnik%23EUW",
+            "rank": 0
+        },
+        {
+            "name": "SuperBanane",
+            "tracker": "SuperBanane%233289",
+            "rank": 0
+        },
+        {
+            "name": "OnixNaruto",
+            "tracker": "FrostFreestyle69%231869",
+            "rank": 0
+        },
+        {
+            "name": "tech fan account",
+            "tracker": "tech%20fan%20account%238086",
+            "rank": 0
+        },
+        {
+            "name": "Qiray",
+            "tracker": "Qiray%237417",
+            "rank": 0
+        },
+        {
+            "name": "supportechnique",
+            "tracker": "Qiray%237417",
+            "rank": 0
+        },
+        {
+            "name": "Rollanddd",
+            "tracker": "Qiray%237417",
+            "rank": 0
+        },
+        {
+            "name": "i mean woaw",
+            "tracker": "Qiray%237417",
+            "rank": 0
+        },
+        {
+            "name": "Fumaz",
+            "tracker": "Qiray%237417",
+            "rank": 0
+        },
+        {
+            "name": "Futulu",
+            "tracker": "Qiray%237417",
+            "rank": 0
+        },
+        {
+            "name": "Cenatys",
+            "tracker": "Qiray%237417",
+            "rank": 0
+        },
+        {
+            "name": "axelaire",
+            "tracker": "Qiray%237417",
+            "rank": 0
+        }
+    ],
+    "pass": "",
+    "emote": [
+        {
+            "name": "unranked",
+            "id": "992404362007683113"
+        },
+        {
+            "name": "fer1",
+            "id": "974029368852639774"
+        },
+        {
+            "name": "fer2",
+            "id": "974029388200960015"
+        },
+        {
+            "name": "fer3",
+            "id": "974029892566012015"
+        },
+        {
+            "name": "bronze1",
+            "id": "974029909129326623"
+        },
+        {
+            "name": "bronze2",
+            "id": "974030643979767848"
+        },
+        {
+            "name": "bronze3",
+            "id": "974030660673097738"
+        },
+        {
+            "name": "argent1",
+            "id": "974030680063365141"
+        },
+        {
+            "name": "argent2",
+            "id": "974031126391844944"
+        },
+        {
+            "name": "argent3",
+            "id": "974031137741606982"
+        },
+        {
+            "name": "or1",
+            "id": "974035932858695721"
+        },
+        {
+            "name": "or2",
+            "id": "974037569539014746"
+        },
+        {
+            "name": "or3",
+            "id": "974035950814502942"
+        },
+        {
+            "name": "platine1",
+            "id": "974020494896529499"
+        },
+        {
+            "name": "platine2",
+            "id": "974020512378392616"
+        },
+        {
+            "name": "platine3",
+            "id": "974036469394059344"
+        },
+        {
+            "name": "diamand1",
+            "id": "974020407248183336"
+        },
+        {
+            "name": "diamand2",
+            "id": "974020422209257532"
+        },
+        {
+            "name": "diamand3",
+            "id": "974020444338393088"
+        },
+        {
+            "name": "ascendant1",
+            "id": "991252047825489972"
+        },
+        {
+            "name": "ascendant2",
+            "id": "991251965357076560"
+        },
+        {
+            "name": "ascendant3",
+            "id": "991251768182833154"
+        },
+        {
+            "name": "immortel1",
+            "id": "991251766349942814"
+        },
+        {
+            "name": "immortel2",
+            "id": "991251771630567444"
+        },
+        {
+            "name": "immortel3",
+            "id": "974020456560615464"
+        },
+        {
+            "name": "radiant1",
+            "id": "974020525384945675"
+        }
+    ]
+}
